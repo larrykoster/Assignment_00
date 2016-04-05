@@ -7,4 +7,4 @@ This is a test to show how to submit assignments through GitHub.
 3. Submit a pull reuqest to UW-POLS503
 4. THIS IS MY EDIT!
 
-This is Anderu!
+This is And
